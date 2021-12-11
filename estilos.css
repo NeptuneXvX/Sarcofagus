@@ -1,0 +1,41 @@
+h1 {
+  border-style: none;
+  border-color: #0f0802;
+  font-style: italic;
+  text-decoration: underline;
+  font-family: Comic Sans MS;
+  color: #e9624d;
+  font-size: xx-large;
+  text-align: center;
+  background-color: transparent;
+  line-height: 0px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.mih2 {
+  border:  none;
+  font-family: Arial;
+  font-size: large;
+  color: #4d4865;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  background-color: transparent;
+}
+#mitexto {
+  border-style: none;
+  border-width: 0ex;
+  font-family: Papyrus;
+  font-weight: bold;
+  font-style: italic;
+  font-size: medium;
+  text-decoration: underline;
+  background-color: transparent;
+  color: #40d0cf;
+}
+body {
+  font-family: Times New Roman;
+  font-size: medium;
+  color: #2c133e;
+  text-align: justify;
+}
